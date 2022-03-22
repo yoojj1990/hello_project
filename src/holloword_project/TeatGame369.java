@@ -36,4 +36,4 @@ public class TeatGame369 {
 		}
 		scanner.close();
 	}
-}
+}//
